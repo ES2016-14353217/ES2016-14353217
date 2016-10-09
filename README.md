@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab1: DOL开发环境配置
 
 ## 1.下载文件
@@ -85,3 +86,6 @@
 ​	成功结果如图
 
 ![](http://ww2.sinaimg.cn/mw690/a16d1d95gw1f8mibhroybj20fn0c0n0u.jpg)
+=======
+# ES2016-14353217
+>>>>>>> b548442da0698b342aa3f1953d9566a122fcefac
