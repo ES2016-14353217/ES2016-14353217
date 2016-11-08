@@ -40,7 +40,7 @@
 
 ​	运行configure之后的截图如下
 
-![](http://ww4.sinaimg.cn/mw690/a16d1d95gw1f8mibg71g2j20hk0ck0x5.jpg)
+![1](http://ww2.sinaimg.cn/large/a16d1d95jw1f9l2uy681jj205k03z3yi.jpg)
 
 
 #### 3.5 编译$ sudo make install
@@ -51,7 +51,7 @@
 
 ​	编译完后文件目录如下
 
-![](http://ww3.sinaimg.cn/mw690/a16d1d95gw1f8mibgcn4hj20iz02ht9n.jpg)
+![](http://ww1.sinaimg.cn/large/a16d1d95jw1f9l2vkp4llj205k01o0sp.jpg)
 
 
 ## 4.编译dol
@@ -73,10 +73,10 @@
 
 ​	若成功会显示build successful
 
-![](http://ww4.sinaimg.cn/mw690/a16d1d95gw1f8micjqz9nj20iz0bg42m.jpg)
+![](http://ww4.sinaimg.cn/large/a16d1d95jw1f9l2w0zpqrj205k03djrd.jpg)
 
 
-![](http://ww4.sinaimg.cn/mw690/a16d1d95gw1f8micje27rj20gg0chadr.jpg)
+![](http://ww4.sinaimg.cn/large/a16d1d95jw1f9l2wdd9jjj205k048mx6.jpg)
 
 
 ## 5.接着可以试试运行第一个例子
@@ -90,5 +90,5 @@
 ​	$ ant -f runexample.xml -Dnumber=1
 ​	成功结果如图
 
-![](http://ww2.sinaimg.cn/mw690/a16d1d95gw1f8mibhroybj20fn0c0n0u.jpg)
+![](http://ww2.sinaimg.cn/large/a16d1d95jw1f9l2wp6yuzj20fn0c0n0u.jpg)
 
