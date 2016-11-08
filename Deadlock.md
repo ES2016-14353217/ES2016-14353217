@@ -2,7 +2,7 @@
 
 ## 1，死锁截图
 
-![deadlock1](http://ww1.sinaimg.cn/large/a16d1d95jw1f9kwvpjh9fj208v07pmxi.jpg)
+​ ![deadlock1](http://ww1.sinaimg.cn/large/a16d1d95jw1f9kwvpjh9fj208v07pmxi.jpg)
 
 ## 2，死锁产生的四个必要条件
 
@@ -16,9 +16,9 @@
 
 ## 3，对上述程序产生死锁的解释
 
-	#### 主函数运行构造函数Deadlock()
+#### 主函数运行构造函数Deadlock()
 
- #### 执行t.start()，线程t被插入到调度队列里，当调度到t的时候，就跑run()里面的代码：b.methodB(a);
+#### 执行t.start()，线程t被插入到调度队列里，当调度到t的时候，就跑run()里面的代码：b.methodB(a);
 
 #### 接着执行while(count-->0);等待一段时间，然后执行a.methodA(b);
 
