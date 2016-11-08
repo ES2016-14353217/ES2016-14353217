@@ -20,13 +20,13 @@
 
 #### 		修改后的example2的.dot截图
 
- 		![dol2](http://ww2.sinaimg.cn/large/a16d1d95jw1f9kvbyx0dkj20io086wf4.jpg)
+​ 		![dol2](http://ww2.sinaimg.cn/large/a16d1d95jw1f9kvbyx0dkj20io086wf4.jpg)
 
 ## 2，修改的代码
 
-	### 	2.1 example1
+### 	2.1 example1
 
-	#### 	     修改square.c，把 i = i x i 改为 temp = i 和 i = temp x temp x temp
+#### 	     修改square.c，把 i = i x i 改为 temp = i 和 i = temp x temp x temp
 
 ​		![code1](http://ww2.sinaimg.cn/large/a16d1d95jw1f9ku0a3zywj20eg08sgn5.jpg)
 
